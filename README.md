@@ -1,7 +1,7 @@
 ### Hi there, I'm Jarrod! 👋
 
 - 📚 I'm a 4th year CS Specialist at the University of Toronto
-- ✨ Currently working at [WatrHub](https://www.watrhub.com/) as a Full Stack & Data Developer Intern
+- ✨ Currently working at [Citylitics](https://citylitics.com/) as a Full Stack & Data Developer Intern
 - ⚡ Previously interned at [CitiGroup](https://www.citigroup.com/citi/) as a Summer Technology Analyst Intern
 - 👨‍🏫 I have a passion for teaching and have worked as a TA for university and high school courses
 - 💻 Avid hackathon goer, with a Top 3 finish at EngHacks2020!
