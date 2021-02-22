@@ -4,8 +4,8 @@
 - ✨ Currently working at [Citylitics](https://citylitics.com/) as a Full Stack & Data Developer Intern
 - ⚡ Previously interned at [CitiGroup](https://www.citigroup.com/citi/) as a Summer Technology Analyst Intern
 - 👨‍🏫 I have a passion for teaching and have worked as a TA for university and high school courses
-- 💻 Avid hackathon goer, with a Top 3 finish at EngHacks2020!
-- 🤔 Currently learning Vue.js
+- 💻 Avid hackathon attendee, with a Top 3 finish at EngHacks2020!
+- 🤔 Currently learning GraphQL
 
 ### Languages & Technologies:
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
