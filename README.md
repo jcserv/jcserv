@@ -1,14 +1,15 @@
 ### Hi there, I'm Jarrod! 👋
 
 - 📚 I'm a 4th year CS Specialist at the University of Toronto
-- ✨ Currently working at [Citi Bank](https://www.citigroup.com/citi/) as a Summer Technology Analyst Intern
+- ✨ Currently working at [Citi Bank](https://www.citigroup.com/citi/) as a Technology Analyst Intern
+- ⚙️ Tech Director of [UTM Computer Science Community](https://cssc.utm.utoronto.ca/)
 - 👨‍🏫 I have a passion for teaching and have worked as a TA for university and high school courses
 - 💻 Avid hackathon attendee, with a Top 3 finish at EngHacks2020!
-- 🤔 Currently learning GraphQL
+- 🤔 Currently learning GraphQL & Vue.js
 
 ### 📝 Recent Roles
 
-* [Full Stack & Data Developer Intern - Citylitics Inc.](https://citylitics.com/) 
+* [Full Stack & Data Developer Intern - Citylitics Inc.](https://citylitics.com/) - Fall 2020/Winter 2021
 * [Summer Technology Analyst Intern - Citi Bank](https://www.citigroup.com/citi/) - Summer 2020
 
 ### Languages & Technologies:
