@@ -10,7 +10,7 @@
 ### 📝 Recent Roles
 
 * [Full Stack & Data Developer Intern - Citylitics Inc.](https://citylitics.com/) - Fall 2020/Winter 2021
-* [Summer Technology Analyst Intern - Citi Bank](https://www.citigroup.com/citi/) - Summer 2020
+* [Technology Analyst Intern - Citi Bank](https://www.citigroup.com/citi/) - Summer 2020
 
 ### Languages & Technologies:
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
