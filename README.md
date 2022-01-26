@@ -1,10 +1,10 @@
 ### Hi there, I'm Jarrod! 👋
 
-- 📚 I'm a 4th year CS Specialist at the University of Toronto
-- ⚙️ Tech Director of [UTM Computer Science Community](https://cssc.utm.utoronto.ca/)
+- ⚙️ Software Engineer @ [Sailpoint](https://www.sailpoint.com/) on the Data Presentation team
+- 📚 Graduated from the University of Toronto in December 2021
 - 👨‍🏫 I have a passion for teaching and have worked as a TA for university and high school courses
-- 💻 Avid hackathon attendee, with a Top 3 finish at EngHacks2020!
-- 🤔 Currently learning Vue.js
+- 💻 Avid hackathon attendee
+- 🤔 Currently learning Go, AWS, and Kafka
 
 ### 📝 Recent Roles
 
