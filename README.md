@@ -1,6 +1,6 @@
 ### Hi there, I'm Jarrod! 👋
 
-- ⚙️ Software Engineer @ [Sailpoint](https://www.sailpoint.com/) on the Data Presentation team
+- ⚙️ Software Engineer @ [SailPoint](https://www.sailpoint.com/) on the Workflows team
 - 📚 Graduated from the University of Toronto in December 2021
 - 👨‍🏫 I have a passion for teaching and have worked as a TA for university and high school courses
 - 💻 Avid hackathon attendee
