@@ -1,16 +1,17 @@
 ### Hi there, I'm Jarrod! 👋
 
-- ⚙️ Software Engineer @ [SailPoint](https://www.sailpoint.com/) on the Workflows team
-- 📚 Graduated from the University of Toronto in December 2021
+- ⚙ Software Engineer II @ [SailPoint](https://www.sailpoint.com/) on the Platform Workflows team
+- 🎓 Studied Computer Science at the University of Toronto
+- 📚 Certified AWS Developer & PagerDuty Incident Responder
 - 👨‍🏫 I have a passion for teaching and have worked as a TA for university and high school courses
 - 💻 Avid hackathon attendee
-- 🤔 Currently learning Go, AWS, and Kafka
+- 🤔 Currently learning Rust
 
 ### 📝 Recent Roles
 
-* [Technology Analyst Intern - Citi Bank](https://www.citigroup.com/citi/) - Summer 2021
-* [Full Stack & Data Developer Intern - Citylitics Inc.](https://citylitics.com/) - Fall 2020/Winter 2021
-* [Technology Analyst Intern - Citi Bank](https://www.citigroup.com/citi/) - Summer 2020
+* [Software Developer Intern - Citi Bank](https://www.citigroup.com/citi/) - Summer 2021
+* [Full Stack Developer Intern - Citylitics Inc.](https://citylitics.com/) - Fall 2020/Winter 2021
+* [Software Developer Intern - Citi Bank](https://www.citigroup.com/citi/) - Summer 2020
 
 ### Languages & Technologies:
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
