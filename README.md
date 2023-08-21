@@ -1,6 +1,6 @@
 ### Hi there, I'm Jarrod! 👋
 
-- ⚙ Software Engineer II @ [SailPoint](https://www.sailpoint.com/) on the [Platform Workflows](https://www.sailpoint.com/products/integrations/workflows/) team
+- ⚙ Senior Software Engineer @ [SailPoint](https://www.sailpoint.com/) on the [Platform Workflows](https://www.sailpoint.com/products/integrations/workflows/) team
 - 🎓 Studied Computer Science at the University of Toronto
 - 📚 Certified AWS Developer & PagerDuty Incident Responder
 - 👨‍🏫 I have a passion for teaching and was previously a teaching assistant for university/high school courses
