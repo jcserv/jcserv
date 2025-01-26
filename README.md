@@ -33,4 +33,16 @@
 
 ![visitors](https://img.shields.io/endpoint?url=https://vu-mi.com/api/v1/views?id=jcserv)
 
-[![Jarrod's github stats](https://github-readme-stats.vercel.app/api?username=jcserv)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=jcserv&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=jcserv&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jcserv&show_icons=true" />
+</picture>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcserv&layout=compact)
