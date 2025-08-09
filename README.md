@@ -1,6 +1,6 @@
 ### Hi there, I'm Jarrod! 👋
 
-- ⚙ Software Engineer @ [dbt Labs](https://www.getdbt.com/) on the [Metadata](https://www.getdbt.com/product/dbt-explorer) team
+- ⚙ Senior Software Engineer @ [dbt Labs](https://www.getdbt.com/) on the [Metadata](https://www.getdbt.com/product/dbt-explorer) team
 - 🎓 Studied Computer Science & Mathematics at the University of Toronto
 - 📚 Certified AWS Developer & PagerDuty Incident Responder
 - 👨‍🏫 I have a passion for teaching and was previously a teaching assistant for university/high school courses
@@ -30,17 +30,3 @@
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-
-![visitors](https://img.shields.io/endpoint?url=https://vu-mi.com/api/v1/views?id=jcserv)
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jcserv&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jcserv&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=jcserv&show_icons=true" />
-</picture>
