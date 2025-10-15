@@ -5,7 +5,7 @@
 - 📚 Certified AWS Developer & PagerDuty Incident Responder
 - 👨‍🏫 I have a passion for teaching and was previously a teaching assistant for university/high school courses
 - 💻 Avid hackathon attendee
-- 🤔 Currently learning dbt
+- 🤔 Currently tinkering with my homelab!
 
 ### 📝 Recent Roles
 
