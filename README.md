@@ -6,6 +6,7 @@
 - 👨‍🏫 I have a passion for teaching and was previously a teaching assistant for university/high school courses
 - 💻 Avid hackathon attendee
 - 🤔 Currently tinkering with my homelab!
+- 🌱 Want to learn: [Effect](https://effect.website/), [Debezium](https://debezium.io/)
 
 ### 📝 Recent Roles
 
